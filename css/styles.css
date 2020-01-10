@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(184, 152, 207);
+  font-family: 'Franklin Gothic Medium';
+}
+
+.big{
+  font-size: 50px;
+}
+.bio {
+  margin: 12px;
+  border: 2px solid rgb(0, 0, 0);
+  padding: 4px;
+  background-color: rgb(247, 199, 239);
+  text-align: left;
+}
+
+.bolder {
+  font-size: 25px;
+  color: black;
+}
+
+.gothcoffee {
+  max-width:30%;
+  height:auto;
+  float: right;
+}
+
+.highlight {
+ color: red;
+ font-size: 50px;
+}
+
+.jumbotron {
+  background-color: purple !important;
+}
+
+.panel {
+  background-color: rgb(210, 171, 247);
+}
+
+.panel > .panel-heading {
+  background-image: none;
+  background-color: rgb(238, 124, 232);
+  color: rgb(167, 28, 148);
+}
+
+.projects {
+  float: right;
+  font-size: 25px;
+  font-family:'Times New Roman';
+}
+
+.quote-color {
+  text-align: right;
+  color: azure;
+}
