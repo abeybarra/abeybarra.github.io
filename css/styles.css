@@ -48,9 +48,14 @@ body {
   float: right;
   font-size: 25px;
   font-family:'Times New Roman';
+  margin-right: 20px;
 }
 
 .quote-color {
   text-align: right;
   color: azure;
+}
+
+.row2 {
+  margin-left: 10px;
 }

@@ -30,7 +30,6 @@ Non that I know of, but with a little practice I'm hoping to get it looking nice
 
 ## Technologies Used
 
-* Windows laptop
 * Git
 * Virtual Studio Code
 * .HTML
