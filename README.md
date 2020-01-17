@@ -13,9 +13,14 @@ Created January 1st, 2020
 This was my first independant project at Epicodus coding school in Portland, OR. It's a simple portfolio, meant to be an introduction to me as person. Used for possible hiring purposes once I can get it polished up a little bit.
 
 ## Setup
-* Go to GitHub
+* Go to GitHub.
 * Clone the repository for this project to your desktop.
-* Open files
+* Open files.
+* You can also view the page live in GitHub Pages(link below).
+
+## GitHub Pages
+
+View the page live at https://abeybarra.github.io/
 
 ## Known Bugs
 
